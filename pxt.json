@@ -1,0 +1,34 @@
+{
+    "name": "Earth Clicker",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-carnival": "github:microsoft/arcade-carnival",
+        "arcade-storytelling": "github:microsoft/arcade-storytelling",
+        "arcade-text": "github:microsoft/arcade-text",
+        "sparks": "github:kiki-lee/sparks#v0.0.4",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tutorial.custom.ts",
+        "pxt.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}

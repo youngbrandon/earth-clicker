@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGdmBgAAAABgd4doAAAAAIZ4iIgGAAAAhoiIeAYAAACGiIh4BgAAAIZ4h4gGAAAAhneIdwYAAACGiIh3BgAAAGCIiGcAAAAAAGZmBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Earth"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
